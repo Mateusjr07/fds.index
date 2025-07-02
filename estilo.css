@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(189, 228, 240);
+}
+
+#títuloPrincipal{
+    color: rgb(65, 39, 211);
+    text-align: center;
+}
+
+p{
+font-size: large;
+}
+
+li{
+    margin-bottom: 10px;
+}
+
+#imghobbie{
+    border-radius: 20px;
+    width: 200px;
+    margin: 20px;
+
+}
+
+#imgpaís{
+    border-radius: 20px;
+    width: 400px;
+    height: 200px;
+}
+
+table{
+    border-collapse:collapse;
+    tr{
+        border: 1px solid black;
+        text-align: center;
+    }}
+
+#veja{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#musica:hover{color: green;}
